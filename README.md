@@ -1,8 +1,10 @@
 # Supervised-ML(regression)-Bike-sharing-demand-prediction
 #Introduction
 Currently, Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of the bike count required at each hour for the stable supply of rental bikes.
+
 #Problem statement
 We are tasked with predicting the number of bikes rented each hour so as to make an approximate estimation of the number of bikes to be made available to the public given a particular hour of the day.
+
 #Overview of data
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
 Attribute Information:
@@ -20,11 +22,16 @@ Snowfall - cm
 Seasons - Winter, Spring, Summer, Autumn
 Holiday - Holiday/No holiday
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
-3Steps involved
-**I. Performing EDA (exploratory data analysis)
-**II. Drawing conclusions from the data
-**III. Training the model
-**IV. Evaluating metrics of our model
+
+#Steps involved
+
+*I. Performing EDA (exploratory data analysis)
+
+*II. Drawing conclusions from the data
+
+*III. Training the model
+
+*IV. Evaluating metrics of our model
 #Models used
 LINEAR REGRESSION
 LASSO REGRESSION
@@ -33,10 +40,12 @@ ELASTIC NET REGRESSION
 DECISION TREE
 RANDOM FOREST
 GRADIENT BOOSTING
-GRADIENT BOOSTING REGRESSION 
+GRADIENT BOOSTING REGRESSION
+
 #Challenges
 A huge amount of data needed to be dealt while doing the project which is quite an important task and also even small inferences need to be kept in mind. 
 As dataset was quite big enough which led more computation time.
+
 #CONCLUSION
 During the time of our analysis, we initially did EDA on all the features of our dataset. We first analysed our dependent variable, 'Rented Bike Count' and also transformed it.  Then we analysed categorical variable and dropped the variable who had majority of one class, we also analysed numerical variable, found out the correlation, distribution and their relationship with the dependent variable. We also   removed some numerical features which had mostly 0 values and hot encoded the categorical   variables.
 
