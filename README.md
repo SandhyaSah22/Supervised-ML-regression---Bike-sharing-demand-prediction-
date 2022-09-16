@@ -7,7 +7,7 @@ Currently, Rental bikes are introduced in many urban cities for the enhancement 
 
 We are tasked with predicting the number of bikes rented each hour so as to make an approximate estimation of the number of bikes to be made available to the public given a particular hour of the day.
 
-#**Overview of data**
+**Overview of data**
 
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
 
