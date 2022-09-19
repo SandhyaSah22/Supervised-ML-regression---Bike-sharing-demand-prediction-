@@ -1,4 +1,3 @@
-https://github.com/SandhyaSah22/Supervised-ML-regression---Bike-sharing-demand-prediction-/blob/a1a559553ebb1f48bc7bd9b4b9fecb830ee48d0f/finance-1200x630-cropped.jpg
 # Supervised-ML(regression)-Bike-sharing-demand-prediction
 
 **Introduction**
